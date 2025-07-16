@@ -11,7 +11,7 @@ int main() {
     cout << "Please type 4 to use Divide function"<< endl;
     cout << "------------------------------" << endl;
     cout << "Type your Function here = " ;
-    int op,num1,num2;
+    Double op,num1,num2;
     cin >> op;
     
     if(op==1) {
